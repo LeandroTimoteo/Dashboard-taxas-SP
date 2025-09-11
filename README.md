@@ -30,3 +30,5 @@ Se tiver alguma dúvida ou quiser se conectar, pode me encontrar em:
 * **WhatsApp:** [Enviar uma Mensagem](https://wa.me/5583987830223)
 
 # Autor: Analista de Sistemas Leandro Timóteo
+
+![AUR License](https://img.shields.io/aur/license/LICENSE)
