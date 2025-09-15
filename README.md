@@ -1,4 +1,4 @@
-# Dashboard de Taxas de São Paulo
+# Dashboard Taxas da Cidades de São Paulo/SP
 
 Este é um dashboard interativo construído com **Streamlit** e **Python** para visualizar e analisar dados de taxas de diferentes cidades do estado de São Paulo. A ferramenta permite uma exploração visual e detalhada dos dados do arquivo `dados.csv`.
 
