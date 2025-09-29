@@ -9,6 +9,11 @@ def carregar_dados():
 
 # Carregar os dados uma única vez
 df = carregar_dados()
+df = pd.read_csv('dados.csv')
+
+st.title("📊 Dashboard de Impostos - Cidades de SP")
+st.dataframe(df)
+
 
 # Abas do dashboard
 tab1, tab2, tab3 = st.tabs(["Tabela e Gráfico", "Detalhes por Cidade", "Comparação de Impostos"])
