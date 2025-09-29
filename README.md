@@ -42,7 +42,8 @@ Se tiver alguma dúvida ou quiser se conectar, pode me encontrar em:
 
 
 <img width="1909" height="919" alt="Captura de tela 2025-09-13 225248" src="https://github.com/user-attachments/assets/c80dea8c-65c7-49ef-a6a2-56f642af4172" />
-https://github.com/user-attachments/assets/27db762a-6522-4dae-9400-20ef9054a8c6
+
+🔗 Link: https://tinyurl.com/2p9x7v7k
 
 
 
