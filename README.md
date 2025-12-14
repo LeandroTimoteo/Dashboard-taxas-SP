@@ -36,9 +36,12 @@ Se tiver alguma dúvida ou quiser se conectar, pode me encontrar em:
 <img width="1900" height="929" alt="Captura de tela 2025-09-13 224944" src="https://github.com/user-attachments/assets/033ddf87-cc6e-4d62-9d26-0801920f55ad" />
 <img width="1909" height="918" alt="Captura de tela 2025-09-13 225131" src="https://github.com/user-attachments/assets/12c2d762-3016-4fa9-b091-3da856e92a2c" />
 
-<a href="https://bit.ly/3Kgl5pS" target="_blank">
-  <img src="https://img.shields.io/badge/Dashboard--taxas--SP-Abrir-blue?style=for-the-badge&logo=streamlit" alt="Abrir Dashboard Taxas SP" />
+
+<a href="https://tinyurl.com/dashboard-taxas-sp" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Dashboard-Online-0066CC?style=for-the-badge&logo=streamlit" alt="Acessar Dashboard">
 </a>
+
+
 
 ![Captura de tela 2025-09-13 225248](https://github.com/user-attachments/assets/c80dea8c-65c7-49ef-a6a2-56f642af4172)
 
